@@ -16,6 +16,7 @@ Origins:
 - Lush Dweller
     - Bonemeal ability
     - Size change? (TBD)
+    - Lush cave spawn
 
 - The Doctor
     - TODO: List powers
