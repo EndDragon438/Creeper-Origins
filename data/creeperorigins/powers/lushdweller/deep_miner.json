@@ -29,6 +29,6 @@
         "ignore_x": true,
         "ignore_z": true,
         "comparison": ">",
-        "compare_to": 231
+        "compare_to": 226
     }
 }
