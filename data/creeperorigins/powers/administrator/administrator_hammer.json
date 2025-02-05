@@ -1,0 +1,11 @@
+{
+    "type": "origins:action_self",
+    "name": "Administrator Hammer",
+    "description": "Smite those who displease you.",
+    "cooldown": 20,
+    "key": "key.origins.secondary_active",
+    "entity_action": {
+            "type": "origins:execute_command",
+            "command": "kick @p[distance=2..] You have been struck by the hammer. Do not try it again."
+        }
+}

@@ -1,0 +1,19 @@
+{
+	"type":"origins:modify_food",
+    "name": "Favorite Food",
+    "description": "You get more hunger and saturation from glow berries",
+	"item_condition":{
+		"type":"origins:ingredient",
+		"ingredient":{
+			"item":"minecraft:glow_berries"
+		}
+	},
+	"food_modifier":{
+		"operation":"addition",
+		"value":2
+	},
+	"saturation_modifier":{
+		"operation":"addition",
+		"value":0.6
+	}
+}

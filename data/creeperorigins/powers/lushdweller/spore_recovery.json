@@ -1,0 +1,24 @@
+{
+	"type":"origins:stacking_status_effect",
+    "name": "Spore Recovery",
+    "description": "Gain Regeneration when near a Spore Blossom",
+	"min_stacks": 0,
+	"max_stacks": 1,
+	"duration_per_stack": 60,
+	"effect":{
+		"effect":"minecraft:regeneration",
+		"show_particles":true,
+		"show_icon":true
+	},
+    "condition": {
+        "type": "origins:block_in_radius",
+        "block_condition": {
+            "type": "origins:in_tag",
+            "tag": "creeperorigins:moss_regen"
+        },
+        "radius": 5,
+        "shape": "cube",
+        "comparison": ">=",
+        "compare_to": 1
+    }
+}

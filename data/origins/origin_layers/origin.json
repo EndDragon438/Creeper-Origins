@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "origins": [
+        "creeperorigins:ferret",
+        "creeperorigins:squirrel",
+        "creeperorigins:merfolk",
+        "creeperorigins:spiderman",
+        "creeperorigins:administrator",
+        "creeperorigins:lushdweller"
+    ]
+}

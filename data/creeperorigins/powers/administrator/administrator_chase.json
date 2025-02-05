@@ -1,0 +1,15 @@
+{
+    "name": "Administrator Chase",
+    "description": "They cannot escape.",
+	"type":"origins:active_self",
+	"entity_action":{
+		"type":"origins:add_velocity",
+		"z":3,
+		"space":"local"
+	},
+    "hud_render":{
+		"bar_index":8
+	},
+	"cooldown":5,
+	"key":"key.origins.primary_active"
+}

@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "origins:fall_immunity",
+        "origins:climbing",
+        "origins:light_armor",
+        "origins:master_of_webs",
+        "creeperorigins:web_swing",
+        "origins:natural_armor",
+        "origins:water_vulnerability",
+        "origins:more_exhaustion"
+    ],
+    "icon": "minecraft:string",
+    "order": 0,
+    "impact": 3,
+    "name": "Spiderman",
+    "description": "Kindness pays off (just not in dollars)"
+}

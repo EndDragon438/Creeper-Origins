@@ -1,0 +1,24 @@
+{
+    "type": "origins:damage_over_time",
+    "hidden": true,
+    "interval": 20,
+    "onset_delay": 1,
+    "damage": 3,
+    "damage_easy": 2,
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:exposed_to_sun"
+        },
+        {
+          "type": "origins:biome",
+          "condition": {
+              "type": "origins:temperature",
+              "comparison": ">=",
+              "compare_to": 1.1
+          }
+      }
+      ]
+    }
+  }

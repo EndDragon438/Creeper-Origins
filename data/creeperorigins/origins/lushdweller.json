@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "creeperorigins:lushdweller/blinding_light",
+        "creeperorigins:lushdweller/deep_miner",
+        "creeperorigins:lushdweller/moss_phase",
+        "creeperorigins:lushdweller/moss_skin",
+        "creeperorigins:lushdweller/mossy_toggle",
+        "creeperorigins:lushdweller/spore_recovery",
+        "creeperorigins:lushdweller/favorite_berry",
+        "creeperorigins:lushdweller/petal_muncher"
+    ],
+    "icon": "minecraft:flowering_azalea",
+    "order": 0,
+    "impact": 2,
+    "name": "Lush Dweller",
+    "description": "A moss-infected miner left to wander the lush caverns."
+}

@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "origins:fall_immunity",
+        "origins:tailwind",
+        "origins:fragile",
+        "origins:light_armor",
+        "creeperorigins:third_height",
+        "origins:vegetarian",
+        "origins:climbing",
+        "origins-plus-plus:sporeling/jockey"
+    ],
+    "icon": "minecraft:oak_leaves",
+    "order": 1,
+    "impact": 2,
+    "name": "Squirrel",
+    "description": "Acorn bandit!"
+}

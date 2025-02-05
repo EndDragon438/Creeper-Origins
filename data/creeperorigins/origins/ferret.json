@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "origins:fall_immunity",
+        "origins:shulker_inventory",
+        "origins:tailwind",
+        "origins:fragile",
+        "origins:light_armor",
+        "creeperorigins:half_height",
+        "origins-plus-plus:sporeling/jockey"
+    ],
+    "icon": "minecraft:bundle",
+    "order": 0,
+    "impact": 2,
+    "name": "Ferret",
+    "description": "Furry crime snake!"
+}

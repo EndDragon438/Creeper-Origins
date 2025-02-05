@@ -1,0 +1,10 @@
+{
+    "type": "origins:toggle",
+    "name": "Moss Phasing",
+    "description": "Phase through moss and clay at will.",
+    "key": {
+      "key": "key.origins.primary_active",
+      "continuous": false
+    },
+    "retain_state": false
+  }
