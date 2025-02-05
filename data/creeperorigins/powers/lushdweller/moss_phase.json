@@ -6,7 +6,7 @@
     "view_distance": 10,
     "block_condition": {
       "type": "origins:in_tag",
-      "tag": "creeperorigins:moss_phase"
+      "tag": "creeperorigins:moss_phasable"
     },
     "phase_down_condition": {
       "type": "origins:and",
