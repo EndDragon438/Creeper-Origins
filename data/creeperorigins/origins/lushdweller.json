@@ -7,7 +7,8 @@
         "creeperorigins:lushdweller/mossy_toggle",
         "creeperorigins:lushdweller/spore_recovery",
         "creeperorigins:lushdweller/favorite_berry",
-        "creeperorigins:lushdweller/petal_muncher"
+        "creeperorigins:lushdweller/petal_muncher",
+        "creeperorigins:half_height"
     ],
     "icon": "minecraft:flowering_azalea",
     "order": 0,
