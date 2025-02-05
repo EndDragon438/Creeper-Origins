@@ -1,13 +1,11 @@
 {
-    "name": "Water Taste",
-    "description": "You gain a bit of water breathing every time you drink any potion.",
     "type": "origins:action_on_item_use",
     "trigger": "finish",
     "entity_action": {
         "type": "origins:apply_effect",
         "effect": {
             "effect": "minecraft:water_breathing",
-            "duration": 400,
+            "duration": 40,
             "amplifier": 0,
             "show_particles": false
         }

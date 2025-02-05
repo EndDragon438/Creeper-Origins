@@ -1,0 +1,34 @@
+{
+    "type": "origins:action_on_item_use",
+    "entity_action": {
+    "type": "origins:delay",
+    "ticks": 5,
+    "action": {
+        "type": "origins:and",
+            "actions": [
+            {
+                "type": "origins:clear_effect",
+                "effect": "minecraft:poison"
+            },
+            {
+                "type": "origins:clear_effect",
+                "effect": "minecraft:hunger"
+            },
+            {    
+                "type": "origins:action_on_item_use",
+                "entity_action": {
+                "type": "origins:feed",
+                "food": 3.0,
+                "saturation": 1.0
+                }
+            }
+        ]
+    }    
+    },
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "minecraft:pufferfish"
+        }
+    }
+}

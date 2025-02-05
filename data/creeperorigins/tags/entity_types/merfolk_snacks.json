@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:tadpole",
+      "minecraft:frog",
+      "minecraft:tropical_fish",
+      "minecraft:pufferfish",
+      "quark:crab",
+      "crittersandcompanions:sea_bunny",
+      "crittersandcompanions:dragonfly"
+    ]
+  }

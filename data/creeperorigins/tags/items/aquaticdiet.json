@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:cod",
+      "minecraft:tropical_fish",
+      "minecraft:pufferfish",
+      "minecraft:salmon",
+      "minecraft:cooked_cod",
+      "minecraft:cooked_salmon",
+      "minecraft:spider_eye",
+      "minecraft:dried_kelp",
+      "quark:ancient_fruit",
+      "quark:crab_leg",
+      "quark:cooked_crab_leg",
+      "delightfulsandwich:cooked_cod_sandwich",
+      "delightful:salmonberries",
+
+      "#origins:pescatarian",
+      "#merfolk:oceansdelightproteins",
+      "#merfolk:oceansdelightvegetables"
+    ]
+  }
