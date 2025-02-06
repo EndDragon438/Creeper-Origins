@@ -1,10 +1,10 @@
 {
-    "type": "origins:action_on_being_used",
+    "type": "origins:action_on_block_use",
     "name": "Sonic Screwdriver",
     "description": "You can open any door, even locked ones",
     "block_action": {
-    "type": "origins:modify_block_state",
-    "property": "open",
-    "cycle": true
+        "type": "origins:modify_block_state",
+        "property": "open",
+        "value": true
     }
 }
