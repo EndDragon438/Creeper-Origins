@@ -5,23 +5,20 @@
     "block_action": {
             "type": "origins:if_else",
             "condition": {
-            "type": "origins:nbt",
-            "nbt": "{Open: true}"
-        },
-        "if_action": {
-            "block_action": {
+                "type": "origins:block_state",
+                "property": "open",
+                "value": false
+            },
+            "if_action": {
                 "type": "origins:modify_block_state",
                 "property": "open",
-                "cycle": true
-            }
-        },
-        "else_action": {
-            "block_action": {
+                "value": true
+            },
+            "else_action": {
                 "type": "origins:modify_block_state",
                 "property": "open",
-                "cycle": false
+                "value": false
             }
-        }
     },
     "block_condition": {
                 "type": "origins:in_tag",
