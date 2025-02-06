@@ -14,26 +14,10 @@ Origins:
 # TODO
 
 - Lush Dweller
-    - Bonemeal ability
-    - Size change? (TBD)
     - Lush cave spawn
 
 - The Doctor
-    - Keep Inventory (hotbar only??)
-    - Extra 2 hp
-    - Can open iron doors & trapdoors
-    - Poison resistant
-    - Peaceful mobs run away
-    - Larger hostile mob detection range
-    - No higher than wood sword
-    - No higher than chainmail armor
-
-- Broodmother
-    - Crawl toggle
-    - Eat small creatures
-    - Poison Immune
-    - Shoot web
-    - Daylight weakness (2?)
+    - Get actual names and descriptions for the powers from someone who knows the show
 
 MAYBES:
 - Gem Eater
