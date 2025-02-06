@@ -19,7 +19,14 @@ Origins:
     - Lush cave spawn
 
 - The Doctor
-    - TODO: List powers
+    - Keep Inventory
+    - Extra 2 hp
+    - Can open iron doors & trapdoors
+    - Poison resistant
+    - Peaceful mobs run away
+    - Larger hostile mob detection range
+    - No higher than wood sword
+    - No higher than chainmail armor
 
 - Broodmother
     - Modify (TODO: List)
