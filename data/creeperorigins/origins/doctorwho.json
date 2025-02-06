@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "origins:light_armor",
+        "creeperorigins:doctorwho/bonus_health",
+        "creeperorigins:doctorwho/hostile_attraction",
+        "creeperorigins:doctorwho/keep_inventory",
+        "creeperorigins:doctorwho/passive_fear",
+        "creeperorigins:doctorwho/poison_resist",
+        "creeperorigins:doctorwho/sonic_screwdriver"
+    ],
+    "icon": "minecraft:iron_trapdoor",
+    "order": 0,
+    "impact": 2,
+    "name": "The Doctor",
+    "description": "idk man i don't watch this shit"
+}
