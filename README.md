@@ -34,3 +34,4 @@ Origins:
 MAYBES:
 - Gem Eater
 - Broodmother alternative
+- ability whispering coords of nearest player???
