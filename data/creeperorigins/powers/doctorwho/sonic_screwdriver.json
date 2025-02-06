@@ -3,22 +3,32 @@
     "description": "You can open any door, even locked ones",
     "type": "origins:action_on_block_use",
     "block_action": {
-            "type": "origins:if_else",
-            "condition": {
-                "type": "origins:block_state",
-                "property": "open",
-                "value": false
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:if_else",
+                "condition": {
+                    "type": "origins:block_state",
+                    "property": "open",
+                    "value": false
+                },
+                "if_action": {
+                    "type": "origins:modify_block_state",
+                    "property": "open",
+                    "value": true
+                },
+                "else_action": {
+                    "type": "origins:modify_block_state",
+                    "property": "open",
+                    "value": false
+                }
             },
-            "if_action": {
-                "type": "origins:modify_block_state",
-                "property": "open",
-                "value": true
-            },
-            "else_action": {
-                "type": "origins:modify_block_state",
-                "property": "open",
-                "value": false
+            {
+                "type": "origins:execute_command",
+                "command": "playsound minecraft:entity.allay.item_thrown block @p ~ ~ ~ 11 1.3"
             }
+        ]
+        
     },
     "block_condition": {
                 "type": "origins:in_tag",

@@ -29,7 +29,11 @@ Origins:
     - No higher than chainmail armor
 
 - Broodmother
-    - Modify (TODO: List)
+    - Crawl toggle
+    - Eat small creatures
+    - Poison Immune
+    - Shoot web
+    - Daylight weakness (2?)
 
 MAYBES:
 - Gem Eater
