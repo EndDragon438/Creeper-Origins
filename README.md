@@ -19,7 +19,7 @@ Origins:
     - Lush cave spawn
 
 - The Doctor
-    - Keep Inventory
+    - Keep Inventory (hotbar only??)
     - Extra 2 hp
     - Can open iron doors & trapdoors
     - Poison resistant
