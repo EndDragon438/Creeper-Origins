@@ -1,0 +1,11 @@
+{
+    "type": "origins:attribute",
+    "name": "Second Heart",
+    "description": "Your second heart makes you able to withstand more blows",
+    "modifier": {
+        "name": "Max health increase",
+        "attribute": "minecraft:generic.max_health",
+        "value": 10,
+        "operation": "addition"
+    }
+}
