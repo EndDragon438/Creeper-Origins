@@ -6,5 +6,9 @@
         "type": "origins:modify_block_state",
         "property": "open",
         "value": true
+    },
+    "block_condition": {
+        "type": "origins:block",
+        "tag": "creeperorigins:doctor_doors"
     }
 }
