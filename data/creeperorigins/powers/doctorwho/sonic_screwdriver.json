@@ -8,7 +8,7 @@
         "value": true
     },
     "block_condition": {
-        "type": "origins:block",
+        "type": "origins:in_tag",
         "tag": "creeperorigins:doctor_doors"
     }
 }
