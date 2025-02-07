@@ -14,11 +14,6 @@ Origins:
 
 # TODO
 
-- Lush Dweller
-    - Lush cave spawn
-
-- The Doctor
-    - Get actual names and descriptions for the powers from someone who knows the show
 
 MAYBES:
 - Gem Eater
