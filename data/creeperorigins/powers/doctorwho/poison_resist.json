@@ -1,6 +1,6 @@
 {
     "type": "origins:effect_immunity",
-    "name": "idfk. poison immune",
-    "description": "no idea man",
+    "name": "Alien Biology",
+    "description": "Immune to poison.",
     "effect": "minecraft:poison"
 }
