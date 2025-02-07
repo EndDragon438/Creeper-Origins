@@ -15,7 +15,7 @@
                     },
                     {
                     "type": "origins:execute_command",
-                    "command": "playsound minecraft:entity.camel.eat master @a ~ ~ ~ 111 1.2"
+                    "command": "playsound minecraft:entity.camel.eat master @p ~ ~ ~ 111 1.2"
                     }
                 ]
             }
