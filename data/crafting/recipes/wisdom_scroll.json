@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "DDD",
-    "DBD",
+    "NBN",
     "DDD"
   ],
   "key": {
@@ -11,6 +11,9 @@
     },
     "B": {
       "item": "minecraft:book"
+    },
+    "N": {
+      "item": "minecraft:netherite_scrap"
     }
   },
   "result": {
