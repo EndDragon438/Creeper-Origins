@@ -6,9 +6,19 @@
             "type": "origins:swimming"
         },
         "if_action": {
-            "type": "origins:grant_power",
-            "power": "creeperorigins:merfolk/greater_swimming",
-            "source": "creeperorigins:merfolk"
+            "type": "origins:and",
+                "actions":[
+                    {
+                    "type": "origins:grant_power",
+                    "power": "creeperorigins:merfolk/greater_swimming",
+                    "source": "creeperorigins:merfolk"
+                    },
+                    {
+                    "type": "origins:grant_power",
+                    "power": "creeperorigins:merfolk/swimming_speed",
+                    "source": "creeperorigins:merfolk"
+                    }
+                ]
         },
         "else_action": {
             "type": "origins:if_else",
