@@ -13,6 +13,7 @@ Origins:
 
 
 # TODO
+- Fix incorrect diet restrictions in @delightful and @delightfulsandwiches
 
 
 MAYBES:
