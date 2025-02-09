@@ -1,13 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "DND",
+    "DXD",
     "NBN",
-    "DND"
+    "DXD"
   ],
   "key": {
     "D": {
       "item": "minecraft:diamond"
+    },
+    "X": {
+      "item": "minecraft:diamond_block"
     },
     "B": {
       "item": "minecraft:book"
