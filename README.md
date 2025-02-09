@@ -16,6 +16,8 @@ Origins:
 - Fix incorrect diet restrictions in @delightful and @delightfulsandwiches
 - Add conduits giving water damage immunity
 - Squirrel favorite food acorns
+- Merfolk dry up out of water
+- Merfolk fire protection in nether
 
 
 MAYBES:
