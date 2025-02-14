@@ -1,0 +1,32 @@
+{
+    "type": "origins:action_on_item_use",
+    "name": "Favourite Food",
+    "description": "Acorns are your favourite food, and you gain more saturation from eating them.",
+    "entity_action": {
+    "type": "origins:delay",
+    "ticks": 5,
+    "action": {
+        "type": "origins:and",
+            "actions": [
+            {
+                "type": "origins:clear_effect",
+                "effect": "minecraft:hunger"
+            },
+            {    
+                "type": "origins:action_on_item_use",
+                "entity_action": {
+                "type": "origins:feed",
+                "food": 3.0,
+                "saturation": 2.0
+                }
+            }
+        ]
+    }    
+    },
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "delightful:acorn"
+        }
+    }
+}
