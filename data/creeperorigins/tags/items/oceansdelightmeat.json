@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "oceansdelight:elder_guardian_roll",
+            "required": false
+        },
+        {
+            "id": "oceansdelight:fugu_roll",
+            "required": false
+        },
+        {
+            "id": "oceansdelight:squid_rings",
+            "required": false
+        }
+    ]
+  }
