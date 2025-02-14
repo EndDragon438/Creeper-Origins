@@ -1,5 +1,6 @@
 {
     "type": "origins:attribute",
+    "hidden": true,
     "modifier": {
       "attribute": "additionalentityattributes:water_speed",
       "name": "Additional merfolk swim speed",

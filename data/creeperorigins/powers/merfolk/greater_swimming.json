@@ -1,5 +1,7 @@
 {
     "type": "origins:attribute",
+    "name": "Greater Swimming",
+    "description": "You swim faster than anyone else.",
     "modifier": {
       "attribute": "additionalentityattributes:water_speed",
       "name": "Extra additional swim speed",

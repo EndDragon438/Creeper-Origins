@@ -1,5 +1,7 @@
 {
     "type": "origins:action_on_item_use",
+    "name": "Water Taste",
+    "description": "You can bring a bit of the sea with you on land in a bottle to breathe longer.",
     "trigger": "finish",
     "entity_action": {
         "type": "origins:apply_effect",

@@ -1,5 +1,7 @@
 {
     "type": "origins:active_self",
+    "name": "Water Speed",
+    "description": "You can slice through the sea faster than even a dolphin.",
     "entity_action": {
         "type": "origins:if_else",
         "condition": {
