@@ -13,11 +13,12 @@
                 "effect": "minecraft:hunger"
             },
             {    
-                "type": "origins:action_on_item_use",
-                "entity_action": {
-                "type": "origins:feed",
-                "food": 3.0,
-                "saturation": 2.0
+                "type": "origins:apply_effect",
+                "effect": {
+                    "effect": "minecraft:saturation",
+                    "duration": 2,
+                    "show_particles": false,
+                    "show_icon": false
                 }
             }
         ]
