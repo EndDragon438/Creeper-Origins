@@ -16,7 +16,6 @@ Origins:
 - Add conduits giving water damage immunity
 - Merfolk dry up out of water
 - Merfolk fire protection in nether
-- FIX THE DOCTOR ANGERING ITEM FRAMES
 
 
 MAYBES:
