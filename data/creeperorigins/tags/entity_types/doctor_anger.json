@@ -34,7 +34,13 @@
         "minecraft:witch",
         "minecraft:wither_skeleton",
         "minecraft:zoglin",
-        "#minecraft:undead",
-        "#minecraft:raiders"
+        "minecraft:husk",
+        "minecraft:zombie",
+        "minecraft:zombie_villager",
+        "minecraft:evoker",
+        "minecraft:illusioner",
+        "minecraft:pillager",
+        "minecraft:ravager",
+        "minecraft:vindicator"
     ]
   }
