@@ -2,7 +2,7 @@
     "type":"origins:action_over_time",
     "name": "Hostile Anger",
     "description": "Hostile mobs will become angry with you from further away.",
-    "interval":20,
+    "interval":60,
     "entity_action":{
         "type":"origins:execute_command",
         "command":"function creeperorigins:doctor_anger"
