@@ -1,0 +1,21 @@
+{
+	"type":"origins:active_self",
+    "name": "Jockey",
+    "description": "You can ride other players by right clicking on them (power developed by the Origins++ project, check them out!)",
+	"entity_action":{
+		"type":"origins:raycast",
+		"distance":3,
+		"bientity_condition":{
+			"type":"origins:target_condition",
+			"condition":{
+				"type":"origins:entity_type",
+				"entity_type":"minecraft:player"
+			}
+		},
+		"bientity_action":{
+			"type":"origins:mount"
+		}
+	},
+	"cooldown":10,
+	"key":"key.use"
+}

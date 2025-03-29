@@ -7,7 +7,7 @@
         "creeperorigins:third_height",
         "origins:vegetarian",
         "origins:climbing",
-        "origins-plus-plus:sporeling/jockey",
+        "creeperorigins:jockey",
         "creeperorigins:squirrel/acorn_favourite"
     ],
     "icon": "minecraft:oak_leaves",

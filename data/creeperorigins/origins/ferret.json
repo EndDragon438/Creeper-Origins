@@ -6,7 +6,7 @@
         "origins:fragile",
         "origins:light_armor",
         "creeperorigins:half_height",
-        "origins-plus-plus:sporeling/jockey"
+        "creeperorigins:jockey"
     ],
     "icon": "minecraft:bundle",
     "order": 0,
