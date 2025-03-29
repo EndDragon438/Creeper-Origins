@@ -1,0 +1,9 @@
+{
+    "type": "origins:restrict_armor",
+    "name": "Exposed Leaves",
+    "description": "You must keep your leaves exposed to sunlight, so you cannot wear a helmet",
+    "head": {
+        "type": "origins:is_equippable",
+        "equipment_slot": "head"
+    }
+}

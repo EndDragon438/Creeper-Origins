@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "origins:fall_immunity",
+        "origins:carnivore",
+        "creeperorigins:half_height",
+        "creeperorigins:pitcher_plant/vine_grapple",
+        "creeperorigins:pitcher_plant/water_regen",
+        "creeperorigins:pitcher_plant/photosynthesis",
+        "creeperorigins:pitcher_plant/dark_weakness",
+        "creeperorigins:pitcher_plant/exposed_leaves"
+    ],
+    "icon": "minecraft:pitcher_plant",
+    "order": 0,
+    "impact": 3,
+    "name": "Pitcher Plant",
+    "description": "Carnivorous plant powerful in sunlight."
+}

@@ -1,0 +1,13 @@
+{
+    "replace": "false",
+    "values": [
+        "minecraft:grass_block",
+        "minecraft:moss_block",
+        "minecraft:azalea",
+        "minecraft:flowering_azalea",
+        "minecraft:big_dripleaf",
+        "minecraft:small_dripleaf",
+        "#minecraft:coral_blocks",
+        "#minecraft:leaves"
+    ]
+}

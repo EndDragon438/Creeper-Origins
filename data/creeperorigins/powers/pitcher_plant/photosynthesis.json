@@ -1,0 +1,23 @@
+{
+    "type": "origins:stacking_status_effect",
+    "name": "Photosynthesis",
+    "description": "You gain speed and hunger while in sunlight.",
+    "min_stacks": 0,
+    "max_stacks": 1,
+    "duration_per_stack": 40,
+    "effects": [
+        {
+            "effect":"minecraft:speed",
+            "show_particles":false,
+            "show_icon":true
+        },
+        {
+            "effect": "minecraft:saturation",
+            "show_particles": false,
+            "show_icon": true
+        }
+    ],
+    "condition": {
+        "type": "origins:exposed_to_sun"
+    }
+  }

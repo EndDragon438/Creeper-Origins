@@ -1,0 +1,23 @@
+{
+	"type":"origins:active_self",
+    "name": "Vine Grapple",
+    "description": "While standing on a plant, grapple in the direction you're facing.",
+	"entity_action": {
+		"type": "origins:add_velocity",
+        "z": 1.5,
+        "space": "local"
+	},
+	"condition":{
+		"type": "origins:block_in_radius",
+        "block_condition": {
+            "type": "origins:in_tag",
+            "tag": "creeperorigins:plant_blocks"
+        },
+        "radius": 1
+	},
+	"cooldown": 100,
+	"hud_render": {
+		"bar_index": 8
+	},
+	"key": "key.origins.primary_active"
+}
