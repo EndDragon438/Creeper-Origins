@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "origins:more_exhaustion",
+        "origins:elytra",
+        "creeperorigins:end/flap",
+        "creeperorigins:end/tough_scales"
+    ],
+    "icon": "minecraft:dragon_head",
+    "order": 0,
+    "impact": 3,
+    "name": "End",
+    "description": "Imafuckingdragon bitches!!"
+}

@@ -1,0 +1,9 @@
+{
+    "type": "origins:invulnerability",
+    "name": "Tough Scales",
+    "description": "Your scales are immune to fall, kinetic, and fire damage",
+    "damage_condition": {
+      "type": "origins:in_tag",
+      "tag": "creeperorigins:tough_scales"
+    }
+  }

@@ -1,0 +1,7 @@
+{
+    "values": [
+        "minecraft:fly_into_wall",
+        "#minecraft:is_fall",
+        "#minecraft:is_fire"
+    ]
+}
