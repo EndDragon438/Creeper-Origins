@@ -17,7 +17,6 @@ Origins:
 - Add conduits giving water damage immunity
 - Merfolk dry up out of water
 - Merfolk fire protection in nether
-- Grab features from OPP to make CO standalone
 
 
 MAYBES:
