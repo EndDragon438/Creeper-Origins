@@ -17,6 +17,15 @@ Origins:
 - Add conduits giving water damage immunity
 - Merfolk dry up out of water
 - Merfolk fire protection in nether
+- plant origin
+    - Grappling hook
+    - Regen in water
+    - Light gives speed, saturation
+    - No fall damage (reduced fall damage?)
+    - Weakness & Slowness in darkness
+    - Half height
+    - Carnivorous
+    - Can't wear helmet
 
 
 MAYBES:
