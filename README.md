@@ -12,6 +12,8 @@ Origins:
 - Doctor Who
 - End (me)
 
+The `jockey` power is taken from the Origins++ project, check them out!!
+
 
 # TODO
 - Add conduits giving water damage immunity

@@ -1,7 +1,7 @@
 {
     "powers": [
         "origins:fall_immunity",
-        "origins-plus-plus:sporeling/jockey",
+        "creeperorigins:jockey",
         "creeperorigins:administrator/administrator_chase",
         "creeperorigins:administrator/administrator_hammer",
         "origins:elytra"
