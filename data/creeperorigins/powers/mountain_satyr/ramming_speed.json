@@ -4,6 +4,7 @@
     "description": "Push the opposition",
     "bientity_action": {
         "type": "origins:add_velocity",
+        "y": 0.2,
         "z": 2
     },
     "bientity_condition": {

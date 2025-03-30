@@ -1,20 +1,44 @@
 {
 	"type":"origins:active_self",
-    "name": "Flap",
-    "description": "Flap your wings, gaining a boost of speed!",
+    "name": "Climb Boost",
+    "description": "Kick off the wall!",
 	"entity_action": {
-		"type": "origins:add_velocity",
-        "z": 2,
-        "space": "local"
-	},
-	"condition": {
-    "type": "origins:fall_distance",
-    "comparison": ">",
-    "compare_to": 0.2
-	},
-	"cooldown": 100,
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:add_velocity",
+                "y": 0.8,
+                "space": "world",
+                "set": true
+            },
+            {    
+                "type": "origins:add_velocity",
+                "z": 0.05,
+                "space": "local"
+            }
+        ]
+    },
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:on_block",
+                "inverted": true
+            },
+            {      
+                "condition": {
+                "type": "origins:block_in_radius",
+                "radius": 1,
+                "shape": "cube",
+                "comparison": ">=",
+                "compare_to": 1
+                }
+            }
+        ]
+    },
+	"cooldown": 20,
 	"hud_render": {
-		"bar_index": 4
-	},
-	"key": "key.origins.primary_active"
+        "should_render": false
+    },
+	"key": "key.use"
 }
