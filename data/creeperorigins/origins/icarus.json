@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "origins:elytra",
+        "origins:fall_immunity",
+        "creeperorigins:half_height",
+        "creeperorigins:icarus/flap",
+        "creeperorigins:icarus/strength",
+        "creeperorigins:icarus/fire_weakness"
+    ],
+    "icon": "minecraft:elytra",
+    "order": 0,
+    "impact": 2,
+    "name": "Icarus",
+    "description": "Be careful not to fly too high, lest the sun melt your wings."
+}

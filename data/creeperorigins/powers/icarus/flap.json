@@ -1,0 +1,19 @@
+{
+	"type":"origins:active_self",
+    "name": "Flap",
+    "description": "Flap your wings, bringing you closer to the light of the sun!",
+	"entity_action": {
+		"type": "origins:add_velocity",
+        "z": 1.5,
+        "space": "local"
+	},
+	"condition":{
+		"type": "origins:sneaking",
+		"inverted": true
+	},
+	"cooldown": 80,
+	"hud_render": {
+		"bar_index": 4
+	},
+	"key": "key.origins.primary_active"
+}

@@ -16,6 +16,7 @@ Origins:
 - kill yourself
 - Mountain Satyr
 - Spirit
+- Dragon
 
 Recipes:
 - Orb of Origin (`origins:orb_of_origin`)

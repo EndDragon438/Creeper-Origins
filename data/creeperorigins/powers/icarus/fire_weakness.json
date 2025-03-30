@@ -1,0 +1,13 @@
+{
+    "type": "origins:modify_damage_taken",
+    "name": "Sun-Tempted",
+    "description": "But don't fly too close, lest the fire burn too strong for you to bear.",
+    "damage_condition": {
+        "type": "origins:in_tag",
+        "tag": "minecraft:is_fire"
+    },
+    "modifier": {
+        "operation": "multiply_total_multiplicitive",
+        "value": 0.5
+    }
+}

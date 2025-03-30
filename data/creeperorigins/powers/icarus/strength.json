@@ -1,0 +1,22 @@
+{
+    "type": "origins:self_action_on_kill",
+    "name": "Strength of The Sun",
+    "description": "Grow stronger as you defeat your enemies.",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effects": [
+            {
+                "effect": "minecraft:strength",
+                "amplifier": 1,
+                "duration": 100
+            },
+            {
+                "effect": "minecraft:regeneration",
+                "amplifier": 1,
+                "duration": 40
+            }
+        ]
+    },
+    "cooldown": 10,
+    "hud_render": false
+}
