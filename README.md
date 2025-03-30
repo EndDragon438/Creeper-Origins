@@ -14,6 +14,7 @@ Origins:
 - Pitcher Plant
 - Drowned
 - kill yourself
+- Mountain Satyr
 
 Recipes:
 - Orb of Origin (`origins:orb_of_origin`)
