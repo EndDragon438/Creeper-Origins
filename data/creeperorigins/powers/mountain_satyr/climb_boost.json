@@ -26,13 +26,13 @@
                 "inverted": true
             },
             {      
-                "condition": {
-                "type": "origins:block_in_radius",
-                "radius": 1,
-                "shape": "cube",
-                "comparison": ">=",
-                "compare_to": 1
-                }
+                "type": "origins:raycast",
+                "distance": 2,
+                "block": true,
+                "entity": true,
+                "shape_type": "visual",
+                "fluid_handling": "any",
+                "block_distance": 2
             }
         ]
     },
