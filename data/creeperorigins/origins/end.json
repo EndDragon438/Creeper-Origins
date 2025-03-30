@@ -3,7 +3,8 @@
         "origins:more_exhaustion",
         "origins:elytra",
         "creeperorigins:end/flap",
-        "creeperorigins:end/tough_scales"
+        "creeperorigins:end/tough_scales",
+        "creeperorigins:end/clumsy_claws"
     ],
     "icon": "minecraft:dragon_head",
     "order": 0,

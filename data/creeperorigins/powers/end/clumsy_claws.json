@@ -1,0 +1,11 @@
+{
+    "type": "origins:prevent_item_use",
+    "name": "Clumsy Claws",
+    "description": "Your claws are too sharp and cut through the string of any bow you try to use.",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "minecraft:bow"
+      }
+    }
+}
