@@ -5,7 +5,7 @@
     "modifier": {
         "attribute": "additionalentityattributes:water_speed",
         "name": "Extra additional swim speed",
-        "value": 2.5,
+        "value": 2,
         "operation": "multiply_base"
     }
 }
