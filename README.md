@@ -10,11 +10,12 @@ Origins:
 - Spiderman
 - Squirrel
 - Doctor Who
-- End (me)
+- End (me :3)
 - Pitcher Plant
 - Drowned
 - kill yourself
 - Mountain Satyr
+- Spirit
 
 Recipes:
 - Orb of Origin (`origins:orb_of_origin`)

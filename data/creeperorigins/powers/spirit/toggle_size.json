@@ -1,0 +1,46 @@
+{
+    "type": "origins:active_self",
+    "name": "Shapeshift",
+    "description": "Toggle between 1 block and 2 blocks tall! (sneak while activating to go small!)",
+    "cooldown": 10,
+    "entity_action": {
+        "type": "origins:if_else",
+        "condition": {
+            "type": "origins:sneaking"
+        },
+        "if_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:execute_command",
+                    "command": "scale set pehkui:height 0.45 @s"
+                },
+                {
+                    "type": "origins:execute_command",
+                    "command": "scale set pehkui:width 0.45 @s"
+                },
+                {
+                    "type": "origins:execute_command",
+                    "command": "scale persist set true @s"
+                }
+            ]
+        },
+        "else_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:execute_command",
+                    "command": "scale set pehkui:height 1 @s"
+                },
+                {
+                    "type": "origins:execute_command",
+                    "command": "scale set pehkui:width 1 @s"
+                },
+                {
+                    "type": "origins:execute_command",
+                    "command": "scale persist set true @s"
+                }
+            ]
+        }
+    }
+}
