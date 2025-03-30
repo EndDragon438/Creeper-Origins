@@ -1,5 +1,6 @@
 {
 	"type":"origins:modify_player_spawn",
+	"hidden": true,
 	"dimension":"minecraft:overworld",
 	"biome": "minecraft:lush_caves",
 	"spawn_strategy":"center"
