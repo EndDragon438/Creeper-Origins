@@ -1,0 +1,11 @@
+{
+    "type": "origins:attribute",
+    "name": "Fast Swimmer",
+    "description": "You swim quicker underwater.",
+    "modifier": {
+        "attribute": "additionalentityattributes:water_speed",
+        "name": "Extra additional swim speed",
+        "value": 2.5,
+        "operation": "multiply_base"
+    }
+}

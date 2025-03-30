@@ -1,0 +1,32 @@
+{
+    "type": "origins:stacking_status_effect",
+    "name": "Water Breather",
+    "description": "You can breathe underwater and see clearly.",
+    "min_stacks": 0,
+    "max_stacks": 1,
+    "duration_per_stack": 40,
+    "effects": [
+        {
+            "effect":"minecraft:water_breathing",
+            "show_particles": false,
+            "show_icon": false
+        },
+        {
+            "effect": "minecraft:night_vision",
+            "show_particles": false,
+            "show_icon": false
+        },
+        {
+            "effect":"minecraft:haste",
+            "amplifier": 1,
+            "show_particles": false,
+            "show_icon": false
+        }
+    ],
+    "condition": {
+        "type": "origins:fluid_height",
+        "fluid": "minecraft:water",
+        "comparison": ">",
+        "compare_to": 0
+    }
+}
