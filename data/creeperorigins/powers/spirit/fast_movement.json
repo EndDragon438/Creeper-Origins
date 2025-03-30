@@ -1,0 +1,21 @@
+{
+    "type": "origins:stacking_status_effect",
+    "name": "Fast Movement",
+    "description": "You are unburdened by your body, so you move faster and jump higher!",
+    "min_stacks": 0,
+    "max_stacks": 1,
+    "duration_per_stack": 60,
+    "effects": [
+        {
+            "effect":"minecraft:speed",
+            "show_particles":false,
+            "show_icon":false
+        },
+        {
+            "effect": "minecraft:jump_boost",
+            "amplifier": 1,
+            "show_particles": false,
+            "show_icon": false
+        }
+    ]
+}

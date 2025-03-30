@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "origins:no_shield",
+        "origins:translucent",
+        "origins:slow_falling",
+        "origins:light_armor",
+        "creeperorigins:spirit/less_hearts",
+        "creeperorigins:spirit/fast_movement",
+        "creeperorigins:spirit/toggle_size"
+    ],
+    "icon": "minecraft:soul_lantern",
+    "order": 0,
+    "impact": 3,
+    "name": "Spirit",
+    "description": "Shapeshifting ghost that flies across the land."
+}
