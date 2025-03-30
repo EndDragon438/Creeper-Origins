@@ -8,6 +8,7 @@
     "effects": [
         {
             "effect":"minecraft:speed",
+            "amplifier": 1,
             "show_particles":false,
             "show_icon":false
         },
