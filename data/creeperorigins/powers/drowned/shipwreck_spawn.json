@@ -1,0 +1,7 @@
+{
+	"type":"origins:modify_player_spawn",
+	"hidden": true,
+	"dimension":"minecraft:overworld",
+	"structure": "minecraft:shipwreck",
+	"spawn_strategy":"center"
+}
