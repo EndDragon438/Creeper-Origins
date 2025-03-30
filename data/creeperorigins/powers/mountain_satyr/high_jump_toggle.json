@@ -1,0 +1,29 @@
+{
+    "type": "origins:active_self",
+    "name": "High Jump Toggle",
+    "description": "Spring like a goat!",
+    "entity_action": {
+        "type": "origins:if_else",
+        "condition": {
+            "type": "origins:power_active",
+    		"power": "creeperorigins:mountain_satyr/high_jump"
+        },
+        "if_action": {
+			"type": "origins:revoke_power",
+			"power": "creeperorigins:mountain_satyr/high_jump",
+			"source": "creeperorigins:mountain_satyr"
+			},
+        "else_action": {
+			"type": "origins:grant_power",
+			"power": "creeperorigins:mountain_satyr/high_jump",
+			"source": "creeperorigins:mountain_satyr"
+        }
+    },
+    "cooldown": 5,
+    "hud_render": {
+        "should_render": false
+    },
+    "key": {
+        "key": "key.origins.secondary_active"
+    }
+}
