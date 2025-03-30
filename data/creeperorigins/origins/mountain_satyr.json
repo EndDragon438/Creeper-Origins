@@ -4,7 +4,8 @@
         "origins:fresh_air",
         "creeperorigins:mountain_satyr/high_jump_toggle",
         "creeperorigins:mountain_satyr/high_jump",
-        "creeperorigins:mountain_satyr/ramming_speed"
+        "creeperorigins:mountain_satyr/ramming_speed",
+        "creeperorigins:mountain_satyr/climb_boost"
     ],
     "icon": "minecraft:goat_horn",
     "order": 1,
