@@ -5,11 +5,12 @@
         "creeperorigins:drowned/water_breather",
         "creeperorigins:drowned/fast_swimmer",
         "creeperorigins:drowned/undead_immunity",
-        "creeperorigins:drowned/slow_walker"
+        "creeperorigins:drowned/slow_walker",
+        "creeperorigins:drowned/shipwreck_spawn"
     ],
     "icon": "minecraft:rotten_flesh",
     "order": 0,
-    "impact": 3,
+    "impact": 2,
     "name": "Drowned",
     "description": "Undead monster of the sea."
 }
