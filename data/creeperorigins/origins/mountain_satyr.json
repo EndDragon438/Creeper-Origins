@@ -1,0 +1,11 @@
+{
+    "powers": [
+        "origins:fall_immunity",
+        "creeperorigins:mountain_satyr/high_jump_toggle"
+    ],
+    "icon": "minecraft:goat_horn",
+    "order": 0,
+    "impact": 2,
+    "name": "Mountain Satyr",
+    "description": "Legs of a goat, with horns, and mirth!"
+}
