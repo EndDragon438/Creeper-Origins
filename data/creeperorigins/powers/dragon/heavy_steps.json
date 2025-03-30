@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "name": "Heavy Steps",
+    "description": "These wings weren't made for walking.",
+    "modifier": {
+        "attribute": "minecraft:generic.movement_speed",
+        "operation": "multiply_total",
+        "value": -0.15
+    }
+}

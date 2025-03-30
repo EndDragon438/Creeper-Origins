@@ -1,0 +1,23 @@
+{
+    "type": "origins:fire_projectile",
+    "name": "Dragons Breath",
+    "description": "Incinerate your enemies with breath of flame.",
+    "entity_type": "minecraft:small_fireball",
+    "sound": "minecraft:entity.blaze.shoot",
+    "count": 3,
+    "cooldown": 5,
+    "divergence": 3,
+    "interval": 1,
+    "key": {
+        "key": "key.origins.secondary_active",
+        "continuous": true
+    },
+    "hud_render": {
+        "should_render": false
+    },
+    "shooter_action": {
+        "type": "origins:change_resource",
+        "resource": "creeperorigins:dragon/fire_cooldown",
+        "change": -1
+    }
+}

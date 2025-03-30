@@ -1,0 +1,21 @@
+{
+    "type": "origins:resource",
+    "hidden": true,
+    "min": 0,
+    "max": 20,
+    "start_value": 20,
+    "hud_render": {
+        "bar_index": 7,
+        "should_render": true
+    },
+    "min_action": {
+        "type": "origins:revoke_power",
+        "power": "creeperorigins:dragon/fire_breath",
+        "source": "creeperorigins:dragon"
+    },
+    "max_action": {
+        "type": "origins:grant_power",
+        "power": "creeperorigins:dragon/fire_breath",
+        "source": "creeperorigins:dragon"
+    }
+}

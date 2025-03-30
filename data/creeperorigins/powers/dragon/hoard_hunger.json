@@ -1,0 +1,25 @@
+{
+    "type": "origins:stacking_status_effect",
+    "name": "Hoard Hunger",
+    "description": "You cannot eat regular food, and instead are satiated by being near your hoard.",
+    "min_stacks": 0,
+    "max_stacks": 4,
+    "duration_per_stack": 10,
+    "tick_rate": 20,
+    "effect": {
+        "effect": "minecraft:saturation",
+        "show_particles": false,
+        "show_icon": false
+    },
+    "condition": {
+        "type": "origins:block_in_radius",
+        "block_condition": {
+            "type": "origins:in_tag",
+            "tag": "creeperorigins:dragons_hoard"
+        },
+        "radius": 4,
+        "shape": "cube",
+        "comparison": ">=",
+        "compare_to": 2
+    }
+}

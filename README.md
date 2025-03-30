@@ -28,6 +28,7 @@ The `jockey` power is taken from the Origins++ project, check them out!!
 - Add conduits giving water damage immunity
 - Merfolk dry up out of water
 - Merfolk fire protection in nether
+- Fix Dragon's fire breath ability with the cooldown
 
 
 MAYBES:

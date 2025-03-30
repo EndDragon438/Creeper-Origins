@@ -1,0 +1,17 @@
+{
+    "type": "origins:multiple",
+    "name": "Lava Dweller",
+    "description": "A creature of fire, you are more powerful in lava.",
+    "lava_vision": {
+        "type": "origins:lava_vision",
+        "s": 0,
+        "v": 32
+    },
+    "modify_lava_speed": {
+        "type": "origins:modify_lava_speed",
+        "modifier": {
+            "operation": "addition",
+            "value": 0.1
+        }
+    }
+}

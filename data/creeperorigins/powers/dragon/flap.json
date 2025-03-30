@@ -1,0 +1,19 @@
+{
+	"type":"origins:active_self",
+    "name": "Flap",
+    "description": "Flap your mighty wings, gaining a boost of speed!",
+	"entity_action": {
+		"type": "origins:add_velocity",
+        "z": 2.5,
+        "space": "local"
+	},
+	"condition":{
+		"type": "origins:sneaking",
+		"inverted": true
+	},
+	"cooldown": 140,
+	"hud_render": {
+		"bar_index": 4
+	},
+	"key": "key.origins.primary_active"
+}

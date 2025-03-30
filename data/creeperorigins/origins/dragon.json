@@ -1,0 +1,23 @@
+{
+    "powers": [
+        "origins:elytra",
+        "origins:fire_immunity",
+        "creeperorigins:double_height",
+        "creeperorigins:dragon/flap",
+        "creeperorigins:dragon/hoard_hunger",
+        "creeperorigins:dragon/no_eating",
+        "creeperorigins:dragon/lava_regen",
+        "creeperorigins:dragon/fire_breath",
+        "creeperorigins:dragon/fire_cooldown",
+        "creeperorigins:dragon/fire_regen",
+        "creeperorigins:dragon/strength",
+        "creeperorigins:dragon/lava_dweller",
+        "creeperorigins:dragon/heavy_steps"  
+    ],
+    "icon": "minecraft:gilded_blackstone",
+    "order": 0,
+    "impact": 3,
+    "name": "Dragon",
+    "description": "Ancient and powerful dragon with a vast hoard. (fire breath currently broken)",
+    "unchooseable": true
+}
