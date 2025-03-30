@@ -19,8 +19,6 @@ Origins:
 
 Recipes:
 - Orb of Origin (`origins:orb_of_origin`)
-- Amnesia Scroll (`skilltree:amnesia_scroll`)
-- Wisdom Scroll (`skilltree:wisdom_scroll`)
 
 The `jockey` power is taken from the Origins++ project, check them out!!
 
