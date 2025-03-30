@@ -1,0 +1,10 @@
+{
+    "powers": [
+        "creeperorigins:kill_yourself/kill_yourself"
+    ],
+    "icon": "minecraft:tnt",
+    "order": 0,
+    "impact": 3,
+    "name": "kill yourself",
+    "description": "kill yourself neeeoooowwwwww!!!!!"
+}

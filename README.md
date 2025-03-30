@@ -13,6 +13,7 @@ Origins:
 - End (me)
 - Pitcher Plant
 - Drowned
+- kill yourself
 
 Recipes:
 - Orb of Origin (`origins:orb_of_origin`)

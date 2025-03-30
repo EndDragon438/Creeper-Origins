@@ -1,0 +1,14 @@
+{
+    "type": "origins:active_self",
+    "name": "kill yourself",
+    "description": "you kill yourself. now.",
+    "cooldown": 0,
+    "hud_render": {
+        "should_render": false
+    },
+    "key": "key.origins.primary_active",
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "summon tnt"
+    }
+}
