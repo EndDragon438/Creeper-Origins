@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "origins:carnivore",
+        "origins:translucent",
+        "creeperorigins:drowned_spirit/water_breather",
+        "creeperorigins:drowned_spirit/fast_swimmer",
+        "creeperorigins:drowned_spirit/undead_immunity",
+        "creeperorigins:drowned_spirit/slow_walker",
+        "creeperorigins:drowned_spirit/shipwreck_spawn"
+    ],
+    "icon": "minecraft:rotten_flesh",
+    "order": 0,
+    "impact": 2,
+    "name": "Drowned Spirit",
+    "description": "An undead spirit lost at sea."
+}

@@ -12,7 +12,7 @@ Origins:
 - Doctor Who
 - End (me :3)
 - Pitcher Plant
-- Drowned
+- Drowned Spirit
 - kill yourself
 - Mountain Satyr
 - Spirit
