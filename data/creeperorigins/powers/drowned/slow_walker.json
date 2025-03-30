@@ -10,10 +10,19 @@
         "show_particles": false,
         "show_icon": true
     },
-    "condition": {
-        "type": "origins:fluid_height",
-        "fluid": "minecraft:water",
-        "comparison": "==",
-        "compare_to": 0
+    "condition":  {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:in_rain",
+                "inverted": true
+            },
+            {
+                "type": "origins:fluid_height",
+                "fluid": "minecraft:water",
+                "comparison": "==",
+                "compare_to": 0
+            }
+        ]
     }
 }
