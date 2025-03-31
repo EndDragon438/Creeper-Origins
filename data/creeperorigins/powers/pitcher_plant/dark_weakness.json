@@ -20,6 +20,6 @@
     "condition": {
         "type": "origins:brightness",
         "comparison": "<=",
-        "compare_to": 0.5
+        "compare_to": 0.2
     }
   }
