@@ -2,11 +2,11 @@
     "powers": [
         "origins:no_shield",
         "origins:translucent",
-        "origins:slow_falling",
         "origins:light_armor",
         "creeperorigins:spirit/less_hearts",
         "creeperorigins:spirit/fast_movement",
-        "creeperorigins:spirit/toggle_size"
+        "creeperorigins:spirit/toggle_size",
+        "origins:fall_immunity"
     ],
     "icon": "minecraft:soul_lantern",
     "order": 0,
