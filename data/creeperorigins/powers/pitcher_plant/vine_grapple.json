@@ -4,7 +4,7 @@
     "description": "While standing on a plant, grapple in the direction you're facing.",
 	"entity_action": {
 		"type": "origins:add_velocity",
-        "z": 1.5,
+        "z": 2,
         "space": "local"
 	},
 	"condition":{
