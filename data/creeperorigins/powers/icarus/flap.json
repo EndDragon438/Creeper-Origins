@@ -15,5 +15,5 @@
 	"hud_render": {
 		"bar_index": 4
 	},
-	"key": "key.origins.primary_active"
+	"key": "key.origins.secondary_active"
 }
