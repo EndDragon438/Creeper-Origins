@@ -3,9 +3,20 @@
     "name": "RAMMING SPEED",
     "description": "Push the opposition",
     "bientity_action": {
-        "type": "origins:add_velocity",
-        "y": 0.2,
-        "z": 2
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:add_velocity",
+                "y": 0.4,
+                "space": "world",
+                "set": true
+            },
+            {    
+                "type": "origins:add_velocity",
+                "z": 3,
+                "space": "local"
+            }
+        ]
     },
     "bientity_condition": {
     "type": "origins:actor_condition",
