@@ -6,7 +6,8 @@
         "creeperorigins:jockey",
         "creeperorigins:icarus/flap",
         "creeperorigins:icarus/strength",
-        "creeperorigins:icarus/fire_weakness"
+        "creeperorigins:icarus/fire_weakness",
+        "creeperorigins:spirit/toggle_size"
     ],
     "icon": "minecraft:elytra",
     "order": 0,

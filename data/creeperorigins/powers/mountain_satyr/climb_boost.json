@@ -7,7 +7,7 @@
         "actions": [
             {
                 "type": "origins:add_velocity",
-                "y": 0.8,
+                "y": 1,
                 "space": "world",
                 "set": true
             },
@@ -36,7 +36,7 @@
             }
         ]
     },
-	"cooldown": 20,
+	"cooldown": 8,
 	"hud_render": {
         "should_render": false
     },
