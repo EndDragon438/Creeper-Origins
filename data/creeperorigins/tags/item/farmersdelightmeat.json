@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "farmersdelight:salmon_roll",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:cod_roll",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:steak_and_potatos",
+            "required": false
+        }
+    ]
+  }

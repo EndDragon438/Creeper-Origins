@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "delightfulsandwich:mutton_sandwich",
+            "required": false
+        },
+        {
+            "id": "delightfulsandwich:cooked_cod_sandwich",
+            "required": false
+        },
+        {
+            "id": "delightfulsandwich:cooked_salmon_sandwich",
+            "required": false
+        },
+        {
+            "id": "delightfulsandwich:ham_sandwich",
+            "required": false
+        },
+        {
+            "id": "delightfulsandwich:bacon_and_egg_sandwich",
+            "required": false
+        }
+    ]
+  }
