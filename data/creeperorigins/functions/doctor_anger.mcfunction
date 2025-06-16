@@ -1,2 +1,0 @@
-execute at @s as @e[type=#creeperorigins:doctor_anger,distance=..50] run data modify entity @s AngryAt set from entity @p UUID
-execute at @s as @e[type=#creeperorigins:doctor_anger,distance=..50] run data modify entity @s AngerTime set value 80
