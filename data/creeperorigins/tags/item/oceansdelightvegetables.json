@@ -1,12 +1,33 @@
 {
     "replace": false,
     "values": [
-      "oceansdelight:honey_fried_kelp",
-      "oceansdelight:cooked_stuffed_cod",
-      "oceansdelight:stuffed_cod",
-      "oceansdelight:braised_sea_pickle",
-      "oceansdelight:cabbage_wrapped_elder_guardian",
-      "oceansdelight:bowl_of_guardian_soup",
-      "oceansdelight:seagrass_salad"
+      {
+        "id": "oceansdelight:honey_fried_kelp",
+        "required": false
+      },
+      {
+        "id": "oceansdelight:cooked_stuffed_cod",
+        "required": false
+      },
+      {
+        "id": "oceansdelight:fugu_roll",
+        "required": false
+      },
+      {
+        "id": "oceansdelight:stuffed_cod",
+        "required": false
+      },
+      {
+        "id": "oceansdelight:cabbage_wrapped_elder_guardian",
+        "required": false
+      },
+      {
+        "id": "oceansdelight:bowl_of_guardian_soup",
+        "required": false
+      },
+      {
+        "id": "oceansdelight:seagrass_salad",
+        "required": false
+      }
     ]
   }

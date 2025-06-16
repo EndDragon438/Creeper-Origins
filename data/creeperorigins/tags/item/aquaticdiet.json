@@ -9,11 +9,26 @@
       "minecraft:cooked_salmon",
       "minecraft:spider_eye",
       "minecraft:dried_kelp",
-      "quark:ancient_fruit",
-      "quark:crab_leg",
-      "quark:cooked_crab_leg",
-      "delightfulsandwich:cooked_cod_sandwich",
-      "delightful:salmonberries",
+      {
+        "id": "quark:ancient_fruit",
+        "required": false
+      },
+      {
+        "id": "quark:crab_leg",
+        "required": false
+      },
+      {
+        "id": "quark:cooked_crab_leg",
+        "required": false
+      },
+      {
+        "id": "delightfulsandwich:cooked_cod_sandwich",
+        "required": false
+      },
+      {
+        "id": "delightful:salmonberries",
+        "required": false
+      },
       "#origins:pescatarian",
       "#creeperorigins:oceansdelightproteins",
       "#creeperorigins:oceansdelightvegetables"

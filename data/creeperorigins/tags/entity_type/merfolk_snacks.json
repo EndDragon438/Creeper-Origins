@@ -5,8 +5,17 @@
       "minecraft:frog",
       "minecraft:tropical_fish",
       "minecraft:pufferfish",
-      "quark:crab",
-      "crittersandcompanions:sea_bunny",
-      "crittersandcompanions:dragonfly"
+      {
+        "id": "quark:crab",
+        "required": false
+      },
+      {
+        "id": "crittersandcompanions:sea_bunny",
+        "required": false
+      },
+      {
+        "id": "crittersandcompanions:dragonfly",
+        "required": false
+      }
     ]
   }

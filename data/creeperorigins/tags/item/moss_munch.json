@@ -1,5 +1,8 @@
 {
     "values": [
-        "twigs:azalea_flowers"  
+        {
+            "id": "twigs:azalea_flowers",
+            "required": false
+        }
     ]
 }
