@@ -42,6 +42,7 @@ The `jockey` power is taken from the Origins++ project, check them out!!
     - Half HP
 - Move power name/desc over to lang/ (need structure for subfolders?)
 - Update powers to match new format (id field??????)
+- figure out how the fuckin lang/ shit works, it's not reading correctly (maybe add to origins/lang/????)
     
     
 
