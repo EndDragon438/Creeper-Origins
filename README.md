@@ -1,3 +1,7 @@
+# 1.21 VERSION CURRENTLY BROKEN
+Origins for MCv1.21.x is currently in alpha, and has made a bunch of changes breaking the pack.
+These changes are still undocumented, so I can't update the pack to fix it.
+
 # Description
 
 Minecraft datapack for the Creeper: Origins server. Adding several new origins and recipes.
@@ -36,6 +40,8 @@ The `jockey` power is taken from the Origins++ project, check them out!!
     - Extra reach
     - Nearly 0 damage dealt
     - Half HP
+- Move power name/desc over to lang/ (need structure for subfolders?)
+- Update powers to match new format (id field??????)
     
     
 
