@@ -8,9 +8,9 @@
         "creeperorigins:drowned_spirit/slow_walker",
         "creeperorigins:drowned_spirit/shipwreck_spawn"
     ],
-    "icon": "minecraft:rotten_flesh",
+    "icon": {
+        "id": "minecraft:rotten_flesh"
+    },
     "order": 0,
-    "impact": 2,
-    "name": "Drowned Spirit",
-    "description": "An undead spirit lost at sea."
+    "impact": 2
 }

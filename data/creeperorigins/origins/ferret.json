@@ -8,9 +8,9 @@
         "creeperorigins:half_height",
         "creeperorigins:jockey"
     ],
-    "icon": "minecraft:bundle",
+    "icon": {
+        "id": "minecraft:bundle"
+    },
     "order": 0,
-    "impact": 2,
-    "name": "Ferret",
-    "description": "Furry crime snake!"
+    "impact": 2
 }

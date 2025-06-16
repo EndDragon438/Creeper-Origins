@@ -19,9 +19,9 @@
 		"creeperorigins:merfolk/merfolk_yummy",
 		"creeperorigins:merfolk/merfolk_get_high"
 	],
-	"icon":"minecraft:tropical_fish",
+	"icon": {
+		"id": "minecraft:tropical_fish"
+	},
 	"order": 0,
-	"impact": 3,
-    "name": "Merfolk",
-    "description": "Better than the other fish guy"
+	"impact": 3
 }

@@ -6,10 +6,10 @@
         "creeperorigins:administrator/administrator_hammer",
         "origins:elytra"
     ],
-    "icon": "minecraft:command_block",
+    "icon":{
+        "id": "minecraft:command_block"
+    },
     "order": 0,
     "impact": 3,
-    "name": "The Administrator",
-    "description": "You. Are. Admin.",
     "unchoosable": true
 }

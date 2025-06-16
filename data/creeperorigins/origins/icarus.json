@@ -9,9 +9,9 @@
         "creeperorigins:icarus/fire_weakness",
         "creeperorigins:spirit/toggle_size"
     ],
-    "icon": "minecraft:elytra",
+    "icon": {
+        "id": "minecraft:elytra"
+    },
     "order": 0,
-    "impact": 2,
-    "name": "Icarus",
-    "description": "Be careful not to fly too high, lest the sun melt your wings."
+    "impact": 2
 }

@@ -10,9 +10,9 @@
         "creeperorigins:jockey",
         "creeperorigins:squirrel/acorn_favourite"
     ],
-    "icon": "minecraft:oak_leaves",
+    "icon": {
+        "id": "minecraft:oak_leaves"
+    },
     "order": 1,
-    "impact": 2,
-    "name": "Squirrel",
-    "description": "Acorn bandit!"
+    "impact": 2
 }

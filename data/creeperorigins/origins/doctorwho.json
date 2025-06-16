@@ -7,9 +7,9 @@
         "creeperorigins:doctorwho/poison_resist",
         "creeperorigins:doctorwho/sonic_screwdriver"
     ],
-    "icon": "minecraft:iron_trapdoor",
+    "icon":  {
+        "id": "minecraft:iron_trapdoor"
+    },
     "order": 0,
-    "impact": 2,
-    "name": "The Doctor",
-    "description": "A lonely man travelling the cosmos."
+    "impact": 2
 }

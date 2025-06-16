@@ -7,9 +7,9 @@
         "creeperorigins:mountain_satyr/ramming_speed",
         "creeperorigins:mountain_satyr/climb_boost"
     ],
-    "icon": "minecraft:goat_horn",
+    "icon": {
+        "id": "minecraft:goat_horn"
+    },
     "order": 1,
-    "impact": 2,
-    "name": "Mountain Satyr",
-    "description": "Legs of a goat, with horns and mirth!"
+    "impact": 2
 }

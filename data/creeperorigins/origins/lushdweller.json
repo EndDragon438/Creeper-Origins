@@ -11,9 +11,9 @@
         "creeperorigins:lushdweller/lush_spawn",
         "creeperorigins:half_height"
     ],
-    "icon": "minecraft:flowering_azalea",
+    "icon": {
+        "id": "minecraft:flowering_azalea"
+    },
     "order": 0,
-    "impact": 2,
-    "name": "Lush Dweller",
-    "description": "A moss-infected miner left to wander the lush caverns."
+    "impact": 2
 }

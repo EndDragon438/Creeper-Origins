@@ -6,9 +6,9 @@
         "creeperorigins:end/tough_scales",
         "creeperorigins:end/clumsy_claws"
     ],
-    "icon": "minecraft:dragon_head",
+    "icon": {
+        "id": "minecraft:dragon_head"
+    },
     "order": 0,
-    "impact": 3,
-    "name": "End",
-    "description": "Imafuckingdragon bitches!!"
+    "impact": 3
 }

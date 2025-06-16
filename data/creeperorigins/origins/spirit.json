@@ -8,9 +8,9 @@
         "creeperorigins:spirit/toggle_size",
         "origins:fall_immunity"
     ],
-    "icon": "minecraft:soul_lantern",
+    "icon": {
+        "id": "minecraft:soul_lantern"
+    },
     "order": 0,
-    "impact": 3,
-    "name": "Spirit",
-    "description": "Shapeshifting ghost that flies across the land."
+    "impact": 3
 }

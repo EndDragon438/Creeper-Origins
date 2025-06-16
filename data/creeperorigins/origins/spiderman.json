@@ -9,9 +9,9 @@
         "origins:water_vulnerability",
         "origins:more_exhaustion"
     ],
-    "icon": "minecraft:string",
+    "icon": {
+        "id": "minecraft:string"
+    },
     "order": 0,
-    "impact": 3,
-    "name": "Spiderman",
-    "description": "Kindness pays off (just not in dollars)"
+    "impact": 3
 }

@@ -9,9 +9,9 @@
         "creeperorigins:pitcher_plant/dark_weakness",
         "creeperorigins:pitcher_plant/exposed_leaves"
     ],
-    "icon": "minecraft:pitcher_plant",
+    "icon": {
+        "id": "minecraft:pitcher_plant"
+    },
     "order": 0,
-    "impact": 3,
-    "name": "Pitcher Plant",
-    "description": "Carnivorous plant powerful in sunlight."
+    "impact": 3
 }
