@@ -12,7 +12,7 @@
         "creeperorigins:dragon/fire_regen",
         "creeperorigins:dragon/strength",
         "creeperorigins:dragon/lava_dweller",
-        "creeperorigins:dragon/heavy_steps"  
+        "creeperorigins:dragon/heavy_steps"
     ],
     "icon": "minecraft:gilded_blackstone",
     "order": 0,
